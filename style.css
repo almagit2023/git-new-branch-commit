@@ -44,7 +44,7 @@ main > p {
 }
 
 img {
-  width: 50%;
+  
 }
 
 footer {
@@ -52,7 +52,7 @@ footer {
   bottom: 0;
   height: 100px;
   width: 100%;
-  background-color: navy;
+  background-color: blue;
  text-align: center;
 }
 
